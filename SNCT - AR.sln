@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SNCT - AR", "SNCT - AR.csproj", "{FFB34495-2006-6DC7-C106-D5CB97630CBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SNCT - AR.Editor", "SNCT - AR.Editor.csproj", "{7922A48A-2958-0676-4053-D6E50CAF5D5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFB34495-2006-6DC7-C106-D5CB97630CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFB34495-2006-6DC7-C106-D5CB97630CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFB34495-2006-6DC7-C106-D5CB97630CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFB34495-2006-6DC7-C106-D5CB97630CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7922A48A-2958-0676-4053-D6E50CAF5D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7922A48A-2958-0676-4053-D6E50CAF5D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7922A48A-2958-0676-4053-D6E50CAF5D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7922A48A-2958-0676-4053-D6E50CAF5D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
